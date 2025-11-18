@@ -10,7 +10,7 @@ int main ()
   printf("Ingrese el monto de la compra: ");
   scanf("%f", &compra);
 
-  if (compra < 2500)
+  if (compra > 2500)
    {
     total = compra - (compra * 0.08);
    }
