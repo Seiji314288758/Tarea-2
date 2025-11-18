@@ -1,5 +1,5 @@
 /*Victor Seiji Nieto Morita
-Tarea 2 Problema Estructuras Repetitivas 2*/
+Tarea 2 Problema Estructuras Repetitivas 3*/
 
 #include <stdio.h>
 
